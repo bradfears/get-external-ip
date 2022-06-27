@@ -1,0 +1,1 @@
+(Invoke-WebRequest v4.ident.me).Content.Trim()
